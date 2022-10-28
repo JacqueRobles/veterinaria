@@ -1,0 +1,21 @@
+class Animal {
+##atributos##
+name = ''
+owner =''
+weight = ''
+genre =''
+breed =''
+species =''
+birth_date =''
+estimated_age =''
+defunction_date =''
+defunction_cause =''
+chip =''
+vaccination =''
+neutered =''
+neutered_date =''
+
+observation =''
+
+
+}
